@@ -1,3 +1,3 @@
 module github.com/lishank0119/shardingmap
 
-go 1.23
+go 1.18

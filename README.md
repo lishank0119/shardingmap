@@ -1,3 +1,6 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/lishank0119/shardingmap.svg)](https://pkg.go.dev/github.com/lishank0119/shardingmap)
+[![go.mod](https://img.shields.io/github/go-mod/go-version/lishank0119/shardingmap)](go.mod)
+
 # ShardingMap
 
 [中文](README.zh-TW.md)

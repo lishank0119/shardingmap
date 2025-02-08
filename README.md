@@ -18,7 +18,7 @@ pairs across multiple shards to achieve thread-safe, high-performance access to 
 ## Installation
 
 ```bash
-go get github.com/lishank0119/shardingmap
+go get -u github.com/lishank0119/shardingmap
 ```
 
 ## Usage

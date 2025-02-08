@@ -13,7 +13,7 @@ ShardingMap 是一個簡單高效的 Go 實現的分片哈希映射。它允許�
 ## 安裝
 
 ```bash
-go get github.com/lishank0119/shardingmap
+go get -u github.com/lishank0119/shardingmap
 ```
 
 ## 用法
